@@ -11,3 +11,10 @@ layout: presentation
 <section id="overview" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
 {% endif %}
 {% endunless %}
+
+<script src="/vortrag-dig/reveal.js/plugin/notes/notes.js"></script>
+<script>
+    Reveal.initialize({
+        plugins: [ RevealNotes ]
+    });
+</script>

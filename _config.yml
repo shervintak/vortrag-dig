@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+# timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/vortrag-dig"
@@ -17,9 +17,9 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
-description: Reveal.js for Jekyll with Solarized Color theme
+title:       Die Zazaki-Märchen vom Schlangenkönig
+author:      Shervin Taheri Kutanaee
+description: Vortrag
 
 sass:
   style:     compressed
@@ -243,6 +243,7 @@ reveal:
   ## presenting each slide. This is used to show a pacing timer in the
   ## speaker view
   defaultTiming: null
+  #totalTime:
 
   ## Enable slide navigation via mouse wheel
   mouseWheel: false
