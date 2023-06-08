@@ -3,13 +3,13 @@ layout: slide
 title: "Typologie der Zazaki-Märchen vom Schlangenkönig"
 ---
 <br>
-### Gliederung
+### Unter-Gliederung
 
 - Geographische Verteilung der Erzählenden
 - Typ Zauberring
 - Typ Tiersprachenkundiger Mann
 - Typ Holzsucher und Schlangenkönig:in
-- 2 besondere Mischungen
+- Besondere Formen/Mischungen
 - Übergreifende Motive
 
 

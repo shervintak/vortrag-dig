@@ -7,6 +7,7 @@ title: Gliederung
 - Zazaki
 - Korpus
 - Werkzeuge
+- Relevanz
 2. Typologie der Zazaki-Märchen vom Schlangenkönig
 - Kartographie
 - ATU 560 Zauberring

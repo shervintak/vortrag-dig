@@ -5,7 +5,7 @@ title: "Werkzeuge"
 <section markdown="1">
 <br>
 
-- Sprachkenntnisse
+- Sprachliche und kulturelle Kenntnisse
 - Wörterbücher, -listen
 	- Canpolat, Vate, Hayıg/Werner, Keskin, Malmîsanij, Özcan, Paul, *Yeni Redhouse*	
 - Enzyklopädie des Märchens
@@ -37,6 +37,6 @@ title: "Werkzeuge"
 <br>
 #### Beispiel ATU-Typ
 
-<img src="/vortrag-dig/assets/atu.png">
+![ATU](/vortrag-dig/assets/atu.png)
 https://guides.library.harvard.edu/folk_and_myth/indices
 </section>

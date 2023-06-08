@@ -21,9 +21,23 @@ ATU 670
 
 
 </section>
+
 <section markdown="1">
+<br>
+#### Motivreihe bei Alî Aydin Çîçek
 
 
+
+<aside class="notes">
+Notizen
+</aside>
+</section>
+
+<section markdown="1">
+<br>
+#### Vergleiche
+![](/vortrag-dig/assets/darabname2.png)
+London, British Library, Or 4615, Dārābnāma-i Ṭarsūsī, f.52r
 <aside class="notes">
 Notizen
 </aside>
