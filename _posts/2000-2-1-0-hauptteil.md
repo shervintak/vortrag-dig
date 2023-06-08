@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Typologie der Zazaki-Märchen vom Schlangenkönig"
+title: "2. Typologie der Zazaki-Märchen vom Schlangenkönig"
 ---
 <br>
 ### Kapitel-Gliederung

@@ -115,7 +115,7 @@ Notizen
 #### Vergleiche
 
 - Belege für Schlangenkönig als Vater:
-	- Armenisch, Finnisch (Süd-Österbotten), Tschechisch (Mähren), Serbisch, Griechisch, Syrisch (Tur Abdin), Arabisch (Mardin)
+	- u.a. Armenisch, Finnisch (Süd-Österbotten), Tschechisch (Mähren), Serbisch, Griechisch, Syrisch (Tur Abdin), Arabisch (Mardin)
 - Persisch:
 	- Zauberring des Salomo
 	- Alte Frau hilft dem Widersacher

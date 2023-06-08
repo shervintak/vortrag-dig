@@ -5,7 +5,7 @@ title: "Holzsucher & Schlangenkönig:in"
 <section markdown="1">
 Eberhard/Boratav 57
 
-<img src="/vortrag-dig/assets/eb57.png" width="60%">
+<img src="/vortrag-dig/assets/eb57.png" width="50%">
 
 <aside class="notes">
 Notizen
@@ -14,7 +14,8 @@ Notizen
 <section markdown="1">
 <br>
 #### Zazaki-Belege
-![Collage57](/vortrag-dig/assets/collage57.png)
+
+<img src="/vortrag-dig/assets/collage57.png" width="80%">
 
 <aside class="notes">
 Notizen
@@ -79,7 +80,7 @@ Notizen
 <br>
 #### Unterschiede bei **Mursaê Sılemani**
 
-<img src="/vortrag-dig/assets/duzgun1.png" width="50%">
+<img src="/vortrag-dig/assets/duzgun1.png" width="40%">
 Illustrationen aus Gulperiye / Düzgün, Mustafa: „Sayê Moro“, in: *Çend sanıkê ma = çend çirokên me*, 1993.
 - Einleitung: Loqman Hekim, sein Buch und Gabriel
 
@@ -122,7 +123,7 @@ Notizen
 <br>
 #### Unterschiede bei **Mursaê Sılemani**
 
-<img src="/vortrag-dig/assets/duzgun4.png" width="50%">
+<img src="/vortrag-dig/assets/duzgun4.png" width="40%">
 
 - *Fortsetzung* Binnenerzählung Belqiya
 	- spaziert mit einem Gelehrten [Affan] mithilfe eines Heilkrauts über die Meere auf der Suche nach dem Ring Salomos
@@ -149,7 +150,7 @@ Notizen
 <section markdown="1">
 <br>
 #### Zusätze bei Hawar Tornêcengi
-<img src="/vortrag-dig/assets/hawar.png" width="30%">
+<img src="/vortrag-dig/assets/hawar.png" width="25%">
 
 - viele Details
 - Belxiya lässt sich vondem Gelehrten (hier: Seymur) überreden, , um mden Schlangenkönig gefangen zu nehmen, um mit seiner Hilfe die gesuchte Pflanze zu finden
@@ -162,7 +163,7 @@ Notizen
 <section markdown="1">
 <br>
 #### Zusätze bei Metin und Kemal Kahraman
-<img src="/vortrag-dig/assets/kahraman.jpg" width="50%">
+<img src="/vortrag-dig/assets/kahraman.jpg" width="30%">
 
 - eigene Zusätze
 - zweite Binnenerzählung von Cihanşah: vom kurdischen Dengbêj Hemed Elî’ye Bêrti
@@ -184,7 +185,7 @@ Notizen
 
 <section markdown="1">
 #### Vergleiche
-<img src="/vortrag-dig/assets/N10010-91.jpg" width="32%">
+<img src="/vortrag-dig/assets/N10010-91.jpg" width="30%">
 London, British Library, Add. 24962, Camasbname, f.11v.<br>
 Author: Musa Abdi. Place and date of production: 1527.
 
