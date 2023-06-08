@@ -52,7 +52,7 @@ Notizen
 <br>
 #### Unterschiede bei **Adabeyi**
 
-- Schlangenkönigin misstraut dem Jungen nicht
+- Schlangenkönig misstraut dem Jungen nicht
 - Wesir besonders böse
 - Menschenmenge liest aus Koran
 - alle sterben außer der Junge

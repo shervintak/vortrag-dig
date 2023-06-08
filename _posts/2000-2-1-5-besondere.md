@@ -33,7 +33,7 @@ Notizen
 
 <img src="/vortrag-dig/assets/henarek.png" width="50%">
 **Aydin**, Suphi: "„Verg rût û lac Paşay / Der alte Wolf und der Königssohn”, *Henarek - Granatäpfelchen. Welat Şêrq ra Sonîk - Märchen aus dem Morgenland. Zazaki - Deutsch*, Hamburg 2015.
-- ATU 550
+- ATU 550 (laut Marzolph)
 - nur "Tochter des Schlangenkönigs"
 
 <aside class="notes">
