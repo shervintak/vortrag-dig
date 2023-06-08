@@ -35,7 +35,7 @@ slideNumber:
   #    "c":  flattened slide number
   #  "c/t":  flattened slide number / total slides
   # "none":  dont't show slide numbers
-  format:    "c/t"
+  format:    "none"
 
 ## Reveal.initialize
 ## At the end of your page you need to initialize reveal by running the following code. Note that all config values are optional and will default as specified below.
@@ -52,7 +52,7 @@ reveal:
   maxScale: 1.5
 
   ## Display presentation control arrows
-  controls: false
+  controls: true
 
   ## Help the user learn the controls by providing hints, for example by
   ## bouncing the down arrow when they first encounter a vertical slide

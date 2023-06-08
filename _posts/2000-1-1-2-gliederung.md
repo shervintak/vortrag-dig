@@ -9,7 +9,7 @@ title: Gliederung
 - Werkzeuge
 - Relevanz
 2. Typologie der Zazaki-Märchen vom Schlangenkönig
-- Kartographie
+- Geogaphische Verteilung
 - ATU 560 Zauberring
 - ATU 670 Tiersprachenkundiger Mann
 - E/B 57 Der Schlangenkönig Schahmeran
