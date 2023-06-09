@@ -12,7 +12,7 @@ title: Gliederung
 - Geogaphische Verteilung
 - ATU 560 Zauberring
 - ATU 670 Tiersprachenkundiger Mann
-- E/B 57 Der Schlangenkönig Schahmeran
+- Holzsucher und Schlangenkönig:in
 - Besondere Formen/Mischungen
 - Übergreifende Motive
 3. Reflexion und Ausblick
