@@ -43,6 +43,10 @@ Notizen
 <section markdown="1">
 <br>
 #### Motivreihe bei **Oskar Mann / Karl Hadank**
+
+[Digitalisat](http://bnk.institutkurde.org/images/pdf/DNHSWLVBMQ.pdf){: .external}
+S. 319-322
+
 <aside class="notes">
 Notizen
 </aside>
