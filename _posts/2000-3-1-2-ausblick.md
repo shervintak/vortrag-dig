@@ -19,7 +19,7 @@ Notizen
 
 "Wie in anderen Ländern weltweit, sind die Märchen auch in Dersim heute als lebendige Erzählkultur weitgehend verschwunden und nur noch wenige alte Leute kennen welche. Der Ausbau moderner Infrastruktur in der Region [...] hat die meisten Dersimer Traditionen grundlegend verändert, und auch Märchen werden kaum noch wiedergegeben. Für diese Märchen mag nun eine neue Form, ein neues Dasein beginnen, als geschriebene Geschichten, und so, als Literatur, können sie vielleicht überleben."
 
-Greve, Martin. „Vorwort: Märchen im Dorfleben von Dersim“. *Der Derwisch und der Drache: Märchen aus Dersim*, hg. von Caner Canerik, Deutsche Erstausgabe, 2022.
+Martin Greve: „Vorwort: Märchen im Dorfleben von Dersim“. [*Der Derwisch und der Drache: Märchen aus Dersim*](https://www.ruffelverlag.de/literatur/der-derwisch-und-der-drache/), Caner Canerik, aus dem Türkischen: Martin Greve, Deutsche Erstausgabe, Verlag auf dem Ruffel, 2022.
 
 <aside class="notes">
 Notizen
