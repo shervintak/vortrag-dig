@@ -157,7 +157,7 @@ Notizen
 <img src="/vortrag-dig/assets/hawar.png" width="25%">
 
 - viele Details
-- Belxiya lässt sich vondem Gelehrten (hier: Seymur) überreden, , um mden Schlangenkönig gefangen zu nehmen, um mit seiner Hilfe die gesuchte Pflanze zu finden
+- Belxiya lässt sich von dem Gelehrten (hier: Seymur) überreden, den Schlangenkönig gefangen zu nehmen, um mit seiner Hilfe die gesuchte Pflanze zu finden
 	
 <aside class="notes">
 Notizen
@@ -188,9 +188,10 @@ Notizen
 </section>
 
 <section markdown="1">
+<br>
 #### Vergleiche
 <img src="/vortrag-dig/assets/N10010-91.jpg" width="30%">
-London, British Library, Add. 24962, Camasbname, f.11v.<br>
+London, British Library, Add. 24962, Camasbname, [f.11v.](https://imagesonline.bl.uk/asset/10074)<br>
 Author: Musa Abdi. Place and date of production: 1527.
 
 <aside class="notes">
@@ -199,6 +200,7 @@ Notizen
 </section>
 
 <section markdown="1">
+<br>
 #### Vergleiche
 
 - Zyklus
